@@ -1,0 +1,163 @@
+{
+  "segments": [
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 9.12,
+      "end": 16.26,
+      "text": " Gather round, everyone. You too, silly goose. It's time to read The Cat in the Hat by Dr. Seuss.",
+      "tokens": [
+        50813,
+        402,
+        1032,
+        2835,
+        11,
+        2506,
+        13,
+        921,
+        1165,
+        11,
+        14397,
+        37246,
+        13,
+        632,
+        338,
+        640,
+        284,
+        1100,
+        383,
+        5181,
+        287,
+        262,
+        10983,
+        416,
+        1583,
+        13,
+        1001,
+        1046,
+        13,
+        51213
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.18874461834247297,
+      "compression_ratio": 1.5126903553299493,
+      "no_speech_prob": 0.13064977526664734,
+      "words": [
+        {
+          "word": " Gather",
+          "start": 9.12,
+          "end": 9.22,
+          "probability": 0.9627424478530884
+        },
+        {
+          "word": " round,",
+          "start": 9.22,
+          "end": 9.54,
+          "probability": 0.5080146789550781
+        },
+        {
+          "word": " everyone.",
+          "start": 9.56,
+          "end": 9.94,
+          "probability": 0.9922876358032227
+        },
+        {
+          "word": " You",
+          "start": 10.56,
+          "end": 10.78,
+          "probability": 0.6337143182754517
+        },
+        {
+          "word": " too,",
+          "start": 10.78,
+          "end": 11.3,
+          "probability": 0.8100535869598389
+        },
+        {
+          "word": " silly",
+          "start": 11.66,
+          "end": 11.7,
+          "probability": 0.2965973913669586
+        },
+        {
+          "word": " goose.",
+          "start": 11.7,
+          "end": 12.1,
+          "probability": 0.9688785672187805
+        },
+        {
+          "word": " It's",
+          "start": 12.76,
+          "end": 12.96,
+          "probability": 0.9948447942733765
+        },
+        {
+          "word": " time",
+          "start": 12.96,
+          "end": 13.12,
+          "probability": 0.9989033937454224
+        },
+        {
+          "word": " to",
+          "start": 13.12,
+          "end": 13.3,
+          "probability": 0.9984238147735596
+        },
+        {
+          "word": " read",
+          "start": 13.3,
+          "end": 13.5,
+          "probability": 0.9972449541091919
+        },
+        {
+          "word": " The",
+          "start": 13.5,
+          "end": 13.68,
+          "probability": 0.37692791223526
+        },
+        {
+          "word": " Cat",
+          "start": 13.68,
+          "end": 13.98,
+          "probability": 0.9942335486412048
+        },
+        {
+          "word": " in",
+          "start": 13.98,
+          "end": 14.16,
+          "probability": 0.9099351763725281
+        },
+        {
+          "word": " the",
+          "start": 14.16,
+          "end": 14.32,
+          "probability": 0.9566360116004944
+        },
+        {
+          "word": " Hat",
+          "start": 14.32,
+          "end": 14.54,
+          "probability": 0.9969223141670227
+        },
+        {
+          "word": " by",
+          "start": 14.54,
+          "end": 15.18,
+          "probability": 0.8447993993759155
+        },
+        {
+          "word": " Dr.",
+          "start": 15.18,
+          "end": 15.66,
+          "probability": 0.9909871220588684
+        },
+        {
+          "word": " Seuss.",
+          "start": 15.98,
+          "end": 16.26,
+          "probability": 0.9986693263053894
+        }
+      ]
+    }
+  ]
+}

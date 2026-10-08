@@ -1,0 +1,6 @@
+{
+  "client_id": "PASTE_PUBLIC_CLIENT_ID_HERE",
+  "redirect_uri": "http://127.0.0.1:8788/callback",
+  "token_file": "~/.config/yoto-prep/tokens/friend.json",
+  "state_dir": "~/.local/state/yoto-prep/friend"
+}

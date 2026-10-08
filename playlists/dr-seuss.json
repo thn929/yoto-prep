@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "title": "Dr. Seuss Collection",
+  "yoto": {
+    "redirect_uri": "http://127.0.0.1:8788/callback",
+    "token_file": "~/.hermes/yoto-auth.json",
+    "state_file": "~/.hermes/cache/yoto-seuss-upload/upload-state.json"
+  },
+  "tracks": [
+    {
+      "title": "Green Eggs and Ham",
+      "audio": "../output/Green Eggs and Ham.m4a",
+      "icon": "~/.hermes/cache/yoto-icon-candidates/362.png"
+    },
+    {
+      "title": "Hop on Pop",
+      "audio": "../output/Hop on Pop.m4a",
+      "icon": "~/.hermes/cache/yoto-seuss-upload/5163-uploaded.png"
+    },
+    {
+      "title": "The Cat in the Hat",
+      "audio": "../output/The Cat in the Hat.m4a",
+      "icon": "~/.hermes/cache/yoto-seuss-upload/4079-uploaded.png"
+    },
+    {
+      "title": "The Cat in the Hat Comes Back",
+      "audio": "../output/The Cat in the Hat Comes Back.m4a",
+      "icon": "~/.hermes/cache/yoto-seuss-upload/4081-uploaded.png"
+    },
+    {
+      "title": "One Fish, Two Fish, Red Fish, Blue Fish",
+      "audio": "../output/One Fish, Two Fish, Red Fish, Blue Fish.m4a",
+      "icon": "~/.hermes/cache/yoto-icon-candidates/7075.png"
+    },
+    {
+      "title": "Fox in Socks",
+      "audio": "../output/Fox in Socks.m4a",
+      "icon": "~/.hermes/cache/yoto-icon-candidates/11281.png"
+    },
+    {
+      "title": "Horton Hears a Who!",
+      "audio": "../output/Horton Hears a Who!.m4a",
+      "icon": "~/.hermes/cache/yoto-icon-candidates/372.png"
+    },
+    {
+      "title": "The Lorax",
+      "audio": "../output/The Lorax.m4a",
+      "icon": "~/.hermes/cache/yoto-icon-candidates/962.png"
+    },
+    {
+      "title": "Oh, the Places You'll Go!",
+      "audio": "../output/Oh, the Places You'll Go!.m4a",
+      "icon": "~/.hermes/cache/yoto-icon-candidates/358.png"
+    }
+  ]
+}
